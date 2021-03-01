@@ -21,6 +21,9 @@ font-family:Tahoma;
 footer {
   text-align:center;
 }
+*{
+  box-sizing: border-box;
+}
 .column {
   float: left;
   width: 33.33%;
