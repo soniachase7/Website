@@ -1,15 +1,18 @@
 h1 {
   text-align: center;
-  color:black
+  color:black;
+  font-family: Verdana;
 }
 body {
   background-color: Linen;
   color: DimGray;
-  font-family: Verdana;
 }
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+h{
+font-family:Tahoma;
 }
