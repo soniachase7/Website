@@ -15,5 +15,8 @@ body {
   width: 50%;
 }
 p {
-font-family:Tahoma
+font-family:Tahoma;
+}
+footer{
+  text-align:center;
 }
