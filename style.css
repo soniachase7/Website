@@ -6,10 +6,3 @@ body {
   color: DimGray;
   font-family: Arial Black;
 }
-img {
-  width: 80%;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
