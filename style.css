@@ -21,7 +21,14 @@ font-family:Tahoma;
 footer {
   text-align:center;
 }
-.newspaper {
-  column-count: 4;
-  column-width: 100px;
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
