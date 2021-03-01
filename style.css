@@ -2,6 +2,7 @@ h1 {
   text-align: center;
   color:black;
   font-family: Verdana;
+  font-size: 30px;
 }
 body {
   background-color: Linen;
@@ -13,8 +14,6 @@ body {
   margin-right: auto;
   width: 50%;
 }
-h {
-font-family:Verdana;
-}
 p {
-font-family:Tahoma}
+font-family:Tahoma
+}
