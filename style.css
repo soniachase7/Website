@@ -36,12 +36,10 @@ footer {
   display: table;
   clear: both;
 }
-h2
-{
+h2 {
 font-weight: bold;
 font-size: 15px;
 }
-h3
-{
+h3 {
   font-size: 12px;
 }
