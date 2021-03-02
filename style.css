@@ -45,3 +45,14 @@ text-decoration: underline;
 h3 {
   font-size: 12px;
 }
+.center {
+  line-height: 200px;
+  height: 200px;
+  text-align: center;
+}
+
+.center p {
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+}
