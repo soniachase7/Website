@@ -35,3 +35,7 @@ footer {
   display: table;
   clear: both;
 }
+h2
+{
+  font-weight: bold;
+}
