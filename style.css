@@ -18,7 +18,6 @@ body {
 }
 p {
 font-family:Tahoma;
-text-align: center;
 }
 footer {
   text-align:center;
@@ -26,23 +25,11 @@ footer {
 * {
   box-sizing: border-box;
 }
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 10px;
-  height: 900px;
-  align-content: center;
-}
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
 h2 {
 font-weight: bold;
 font-size: 15px;
 text-decoration: underline;
-text-align: center;
 }
 h3 {
   font-size: 12px;
