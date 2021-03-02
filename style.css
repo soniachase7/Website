@@ -39,7 +39,7 @@ footer {
 h2 {
 font-weight: bold;
 font-size: 15px;
-font-style: italic;
+text-decoration: underline;
 }
 h3 {
   font-size: 12px;
