@@ -32,3 +32,19 @@ text-decoration: underline;
 h3 {
   font-size: 12px;
 }
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 1000px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
