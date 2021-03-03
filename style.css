@@ -9,6 +9,7 @@ body {
   background-color: Linen;
   color: DimGray;
   font-family: Verdana;
+  text-align: center;
 }
 .center {
   display: block;
@@ -18,6 +19,7 @@ body {
 }
 p {
 font-family:Tahoma;
+text-align: center;
 }
 footer {
   text-align:center;
@@ -28,6 +30,7 @@ h2 {
 font-weight: bold;
 font-size: 15px;
 text-decoration: underline;
+text-align: center;
 }
 h3 {
   font-size: 12px;
