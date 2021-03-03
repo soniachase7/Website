@@ -4,7 +4,7 @@
 
 
 body {
-  font-family: Arial;
+  font-family: georgia;
   padding: 20px;
   background: #linen;
 }
@@ -32,9 +32,9 @@ body {
 
 
 .img {
-  background-color: lightgray;
+  background-color: oldlace;
   width: 100%;
-  padding: 20px;
+  padding: 15px;
 }
 
 
@@ -65,4 +65,14 @@ body {
     width: 100%;
     padding: 0;
   }
+}
+p
+{
+font-size: 12px;
+font-family: Verdana;
+color: #404040;
+}
+section
+{
+  font-size: 15px
 }
