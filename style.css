@@ -32,14 +32,14 @@ body {
 
 
 .img {
-  background-color: #lightgray;
+  background-color: lightgray;
   width: 100%;
   padding: 20px;
 }
 
 
 .card {
-   background-color: white;
+   background-color: linen;
    padding: 20px;
    margin-top: 20px;
 }
@@ -55,7 +55,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background-color: linen;
   margin-top: 15px;
   font-size: 10px;
 }
