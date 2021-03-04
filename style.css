@@ -6,7 +6,7 @@
 body {
   font-family: georgia;
   padding: 20px;
-  background: #linen;
+  background: #ffff80;
 }
 
 
@@ -14,7 +14,7 @@ body {
   padding: 20px;
   font-size: 30px;
   text-align: center;
-  background: linen;
+  background: #ffcf66;
 }
 
 
@@ -32,14 +32,13 @@ body {
 
 
 .img {
-  background-color: oldlace;
   width: 100%;
-  padding: 15px;
+  padding: 10px;
 }
 
 
 .card {
-   background-color: linen;
+   background-color: #ffff99;
    padding: 20px;
    margin-top: 20px;
 }
@@ -55,7 +54,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background-color: linen;
+  background-color: #ffff99;
   margin-top: 15px;
   font-size: 10px;
 }
