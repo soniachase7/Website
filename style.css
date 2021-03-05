@@ -6,15 +6,15 @@
 body {
   font-family: georgia;
   padding: 20px;
-  background: #ffffcc;
-}
+  background:linear-gradient(to bottom,#66ccff 0%, #ffff66 100%);
+  }
 
 
 .header {
   padding: 10px;
   font-size: 30px;
   text-align: center;
-  background: #ffe066;
+  background: #66ccff;
 }
 
 
@@ -38,7 +38,7 @@ body {
 
 
 .card {
-   background-color: #ffe680;
+  background:linear-gradient(to bottom,#66ccff 0%, #ffff66 100%);
    padding: 20px;
    margin-top: 20px;
 }
@@ -68,7 +68,7 @@ p
 {
 font-size: 12px;
 font-family: Verdana;
-color: #404040;
+color: #1a1a1a;
 }
 section
 {
