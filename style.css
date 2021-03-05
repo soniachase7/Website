@@ -6,7 +6,7 @@
 body {
   font-family: georgia;
   padding: 20px;
-  background: #ffff80;
+  background: #ffffcc;
 }
 
 
@@ -14,7 +14,7 @@ body {
   padding: 10px;
   font-size: 30px;
   text-align: center;
-  background: #ffcf66;
+  background: #ffe066;
 }
 
 
@@ -38,7 +38,7 @@ body {
 
 
 .card {
-   background-color: #ffff99;
+   background-color: #ffe680;
    padding: 20px;
    margin-top: 20px;
 }
@@ -54,7 +54,6 @@ body {
 .footer {
   padding: 10px;
   text-align: center;
-  background-color: #ffff99;
   margin-top: 15px;
   font-size: 10px;
 }
